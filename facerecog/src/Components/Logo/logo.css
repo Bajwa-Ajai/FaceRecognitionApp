@@ -1,0 +1,15 @@
+
+.Tilt{
+  margin: 0;
+  padding:10;
+  font-family: "Courier New",Courier,monospace;
+  border-radius: 50%;
+  background:linear-gradient(89deg,#cb81da 0%, #7589e2 100%);
+}
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #6306a1;
+  border-radius: 50%;
+  display: inline-block;
+}
